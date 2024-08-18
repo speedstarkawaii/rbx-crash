@@ -18,7 +18,7 @@ int main() {//for NOOBS
             break;
         }
 
-        Sleep(1);//loop, we can do NO loop in a new thread but this is just example
+        Sleep(1);//loop, we can do NO loop delay in a new thread but this is just example
     }
 
     return 0;
